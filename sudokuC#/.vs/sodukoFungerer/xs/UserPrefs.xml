@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{36DB05BC-D58D-49E1-9D94-EEE5F6C61DD9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sodukoFungerer/Program.cs">
+    <Files>
+      <File FileName="sodukoFungerer/Program.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sodukoFungerer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

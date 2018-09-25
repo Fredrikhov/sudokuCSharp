@@ -1,0 +1,11 @@
+/Users/Fredrik/Projects/sodukoFungerer/sodukoFungerer/bin/Debug/sodukoFungerer.exe
+/Users/Fredrik/Projects/sodukoFungerer/sodukoFungerer/bin/Debug/sodukoFungerer.pdb
+/Users/Fredrik/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.csproj.CoreCompileInputs.cache
+/Users/Fredrik/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.exe
+/Users/Fredrik/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.pdb
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/bin/Debug/sodukoFungerer.exe
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/bin/Debug/sodukoFungerer.pdb
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.csprojAssemblyReference.cache
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.csproj.CoreCompileInputs.cache
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.exe
+/Users/fredrikhovnilsen/Library/Mobile Documents/com~apple~CloudDocs/Ikke viktig/Projects/sodukoFungerer/sodukoFungerer/obj/x86/Debug/sodukoFungerer.pdb
